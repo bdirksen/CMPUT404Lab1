@@ -1,0 +1,28 @@
+Question 1:
+    https://github.com/bdirksen
+
+Question 2:
+    2.28.2
+
+Question 3:
+    2.28.2
+
+Question 4:
+    the virtual environment python is a fresh install of python with no packages installed.
+    I can install packages in the virtual environment but not in the system python. 
+    I will only have the packages I need for the current lab in the virtual environment.
+
+Question 5:
+    using curl -i http://google.com I get status code 301
+    to get the status code 200 the site must use http://www.google.com 
+
+Question 6:
+    with curl i we get 301 and it stops with curl -iL we get 301 then it continues to 200 
+    using curl http://www.google.com/teapot we ge the HTML from the website\
+
+Question 7:
+    with -X POST we are sending a post request to the server
+    while with just -i we are using GET method
+
+Question 8:
+    
